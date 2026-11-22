@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Gridiron Dynasty",
+    "slug": "gridiron-dynasty",
+    "version": "0.1.0",
+    "orientation": "default",
+    "backgroundColor": "#050705",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gridirondynasty.app"
+    },
+    "android": {
+      "package": "com.gridirondynasty.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#050705"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
